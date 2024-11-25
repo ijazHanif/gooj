@@ -1,0 +1,122 @@
+{
+  "header": {
+    "expertise": "Expertise",
+    "projects": "Projects",
+    "about_us": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "contact_us": "Contact Us",
+    "logo": "SoftoTech"
+  },
+  "services_home": {
+    "title": "Lead generation services that win clients",
+    "description": "You can put all your energy into scaling your business while we set up a consistent stream of vetted business leads to your pipeline.",
+    "services": [
+      {
+        "title": "Appointment setting",
+        "description": "All-inclusive B2B appointment booking with high lead-to-deal potential. Start getting new opportunities within weeks.",
+        "badge": "Popular", 
+        "link": "#"
+      },
+      {
+        "title": "Cold email outreach",
+        "description": "Increase engagement, appointments attendance, and conversion to deals with clear-cut outreach campaigns.",
+        "badge": null,
+        "link": "#"
+      },
+      {
+        "title": "Intent-based cold calling",
+        "description": "Multiply your appointment rate by 30% activating phone conversations with prospects and securing high-ticket deals.",
+        "badge": "New", 
+        "link": "#"
+      },
+      {
+        "title": "Account based marketing",
+        "description": "Build strong partnerships with high-value accounts with hyper-targeted and personalized outreach campaigns.",
+        "badge": null,
+        "link": "#"
+      },
+      {
+        "title": "LinkedIn lead generation",
+        "description": "Achieve 15% higher sales closing rate by developing your brand image and reaching your prospects directly.",
+        "badge": null,
+        "link": "#"
+      },
+      {
+        "title": "Outsourced SDR service",
+        "description": "A simple and 4 times cheaper solution to reinforce your sales team compared to expanding an in-house department.",
+        "badge": null,
+        "link": "#"
+      },
+      {
+        "title": "Lead generation training",
+        "description": "Receive a 360° support of your outreach campaigns at any stage or train your outbound sales team from scratch.",
+        "badge": null,
+        "link": "#"
+      },
+      {
+        "title": "Unleash your sales potential",
+        "description": "Unleash your sales potential with our lead generation services",
+        "cta": "Book a call",  
+        "link": "#"
+      }
+    ]
+  },
+  "footer": {
+    "softotech": {
+      "type": "SoftoTech",
+      "address": "Address: Multan, Pakistan",
+      "telephone": "Telephone: +923555555555",
+      "email": "Email:  info@softotech.se"
+    },
+    "company": {
+      "type": "company",
+      "our_work": "Our Work",
+      "magazine": "Magazine",
+      "our_academy": "Our Academy",
+      "about_softotech": "About SoftoTech"
+    },
+    "serivces": {
+      "type": "serivces",
+      "full_stack_development": "Full Stack Development",
+      "artificial_intelligence": "Artificial Intelligence",
+      "generative_ai": "Generative AI",
+      "custom_software_development": "Custom Software Development",
+      "front_end_development": "Front End Development",
+      "back_end_development": "Back End Development",
+      "mobile_app_development": "Mobile App Development",
+      "android_app_development": "Android App Development"
+    },
+    "solutions": {
+      "type": "solutions",
+      "marketplace_development": "Marketplace Development",
+      "lms_development": "LMS Development",
+      "mvp_development": "MVP Development",
+      "saas_development": "SaaS Development",
+      "crm_development": "CRM Development"
+    },
+    "consulting": {
+      "type": "consulting",
+      "it_consulting": "IT Consulting",
+      "ruby_on_rails_consulting": "Ruby on Rails Consulting",
+      "ecommerce_consulting": "eCommerce Consulting",
+      "software_consulting": "Software Consulting",
+      "data_science_consulting": "Data Science Consulting"
+    },
+    "footer_bottom": {
+      "type": "footer_bottom",
+      "privacy_policy": "Privacy policy",
+      "legal_notice": "Legal notice",
+      "cookies": "Cookies",
+      "terms_of_use": "Terms of use",
+      "sitemap": "Sitemap"
+    },
+    "copyright": {
+      "type": "copyright",
+      "copyright": "SoftoTech"
+    },
+    "social_media": {
+      "type": "social_media"
+    }
+  }
+}
